@@ -142,7 +142,7 @@ function onChange() {
        sumVal.innerText = sum;
    }
 }
-document.addEventListener("onInput", this.onChange);
+document.addEventListener("change", this.onChange);
 
 
 // 7. Skills Event
